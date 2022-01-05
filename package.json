@@ -1,9 +1,17 @@
 {
-  "name": "is-today",
+  "name": "what-day",
   "version": "1.0.0",
   "description": "Lightweight and no dependencies package to check what day is today.",
   "main": "index.js",
   "type": "module",
+  "homepage": "https://github.com/tpliakas/what-day",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tpliakas/what-day.git"
+},
+"bugs": {
+    "url": "https://github.com/tpliakas/what-day/issues"
+},
   "keywords": [
     "today",
     "isToday",
