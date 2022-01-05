@@ -2,6 +2,9 @@
 
 Lightweight and no dependencies package to check what day is today.
 
+Bundle size: 500B minified, 306B minified + gzipped\
+[Bundlephobia link](https://bundlephobia.com/package/what-is-today@1.0.0)
+
 ## Documentation
 ```
 import { isToday } from 'what-is-today';
@@ -16,6 +19,11 @@ If you don't pass a valid day, it will return the string `No valid day was given
 import { todayIs } from 'what-is-today';
 
 todayIs(); // returns tuesday (or whatever the day is)
+```
+
+JSX:
+```
+{isToday('Wednesday') ? 'I should work' : 'Get some rest!'}
 ```
 ## Contributing
 
