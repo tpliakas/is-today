@@ -1,0 +1,16 @@
+{
+  "name": "is-today",
+  "version": "1.0.0",
+  "description": "Lightweight and no dependencies package to check what day is today.",
+  "main": "index.js",
+  "type": "module",
+  "keywords": [
+    "today",
+    "isToday",
+    "is-today",
+    "what-day",
+    "day"
+  ],
+  "author": "Theodore Pliakas <thodorispliakas@gmail.com> (https://tpliakas.com)",
+  "license": "MIT"
+}
