@@ -1,5 +1,8 @@
 # what-is-today
 
+![Licence](https://img.shields.io/npm/l/what-is-today?style=for-the-badge)
+![NPM](https://img.shields.io/npm/v/what-is-today?style=for-the-badge)
+
 Lightweight and no dependencies package to check what day is today.
 
 Bundle size: 500B minified, 306B minified + gzipped\
