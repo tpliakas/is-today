@@ -6,7 +6,7 @@
 Lightweight and no dependencies package to check what day is today.
 
 Bundle size: 500B minified, 306B minified + gzipped\
-[Bundlephobia link](https://bundlephobia.com/package/what-is-today@1.0.3)
+[Bundlephobia link](https://bundlephobia.com/package/what-is-today@1.0.4)
 
 ## Documentation
 ```
